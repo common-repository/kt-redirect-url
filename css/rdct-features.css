@@ -1,0 +1,14 @@
+body{background: #F1F1F1 !important;}
+#wpfooter{position:relative !important;}
+.multiselect-container, .dropdown-menu{position:relative !important; height: auto; max-height: 300px; width: 100%;, max-width: 750px; overflow: scroll !important;}
+button.multiselect span.multiselect-selected-text{white-space:pre-wrap; float: left; width: 96%;}
+.rdct-tp-div .button.reset {background: #bbf310; font-size: 14px; height: 40px; padding: 5px; }
+
+.rdct-tp-div .form-field label.rdct-lbl {font-size: 14px; text-shadow: 0 1px;}
+.rdct-tp-div .form-wrap .form-field {border-left: 3px solid #222; margin: 10px 0 15px; padding: 5px 0 0 10px; }
+.rdct-tp-div select {border: 1px solid #c5c5c5; border-radius: 5px; height: 35px; padding: 5px; width: 150px; }
+.rdct-tp-div #submit.button {background: #bbf310; font-size: 14px; height: 40px; padding: 5px; }
+#assign_post.form-field .multiselect-container li a label, #cta_locate.form-field .multiselect-container li a label{height:auto !important;}
+input[type=text].warning{border: 1px solid red;}
+p.val-error{color: red;}
+.updated.rdct-success { float: right; width: 85%; }
